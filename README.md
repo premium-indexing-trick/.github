@@ -1,0 +1,2 @@
+# .github
+Premium Indexing Method
